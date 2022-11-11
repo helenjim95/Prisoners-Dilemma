@@ -83,7 +83,7 @@ public class PrisonersDilemma {
 			yearsAlice = 1;
 			yearsBob = 1;
 		}
-		System.out.printf("Alice gets %d years and Bob gets %d years in prison.", yearsAlice, yearsBob);
+		System.out.printf("Alice gets %d years and Bob gets %d years in prison.%n", yearsAlice, yearsBob);
 
 	}
 
