@@ -45,7 +45,7 @@ public class PrisonersDilemma {
 
 		// TODO: Bob answers
 		// Get a random choice for Bob
-		MyRandom.setSeed(1234);
+//		MyRandom.setSeed(1234);
 		choiceBob = MyRandom.generateRandomChoice();
 		// Print Bob's choice
 //		while (!validResponseList.contains(choiceBob)) {
