@@ -48,9 +48,9 @@ public class PrisonersDilemma {
 		MyRandom.setSeed(1234);
 		choiceBob = MyRandom.generateRandomChoice();
 		// Print Bob's choice
-		while (!validResponseList.contains(choiceBob)) {
-			choiceBob = scanner.nextLine();
-		}
+//		while (!validResponseList.contains(choiceBob)) {
+//			choiceBob = scanner.nextLine();
+//		}
 
 		switch (choiceBob) {
 			case "B":
